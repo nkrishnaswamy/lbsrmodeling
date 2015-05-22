@@ -10,10 +10,10 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2015
 		Month: 05
-		Day: 14
-		Hour: 16
-		Minute: 29
-		Second: 25
+		Day: 22
+		Hour: 12
+		Minute: 19
+		Second: 37
 		Millisecond: 0
 	}
 	Creator: "FBX SDK/FBX Plugins build 20070228"
@@ -21,7 +21,7 @@ FBXHeaderExtension:  {
 		FlagPLE: 0
 	}
 }
-CreationTime: "2015-05-14 16:29:25:000"
+CreationTime: "2015-05-22 12:19:37:000"
 Creator: "Blender version 2.67 (sub 0)"
 
 ; Object definitions
@@ -517,7 +517,7 @@ Objects:  {
 		TypeFlags: "Light"
 		GeometryVersion: 124
 	}
-	Model: "Model::Plane", "Mesh" {
+	Model: "Model::Dollar", "Mesh" {
 		Version: 232
 		Properties60:  {
 			Property: "QuaternionInterpolate", "bool", "",0
@@ -596,8 +596,8 @@ Objects:  {
 		MultiTake: 1
 		Shading: Y
 		Culling: "CullingOff"
-		Vertices: 4.964799,-2.152847,0.000000,-4.964799,-2.152847,0.000000,4.964799,2.152847,0.000000,-4.964799,2.152847,0.000000,4.964799,-2.152847,0.036200,-4.964799,-2.152847,0.036200,4.964799,2.152847,0.036200
-		,-4.964799,2.152847,0.036200
+		Vertices: 0.248240,-0.107642,0.000000,-0.248240,-0.107642,0.000000,0.248240,0.107642,0.000000,-0.248240,0.107642,0.000000,0.248240,-0.107642,0.001810,-0.248240,-0.107642,0.001810,0.248240,0.107642,0.001810
+		,-0.248240,0.107642,0.001810
 		PolygonVertexIndex: 2,0,1,-4,5,4,6,-8,2,3,7,-7,0,2,6,-5,3,1,5,-8,1,0,4,-6
 		Edges: 
 		GeometryVersion: 124
@@ -1914,7 +1914,7 @@ Objects:  {
 		}
 		NbPoseNodes: 1
 		PoseNode:  {
-			Node: "Model::Plane"
+			Node: "Model::Dollar"
 			Matrix: 0.000000075497901,0.000000000000000,-1.000000000000000,0.000000000000000,-1.000000000000000,0.000000000000000,-0.000000075497901,0.000000000000000,0.000000000000000,1.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,1.000000000000000
 		}
 	}
@@ -1936,7 +1936,7 @@ Objects:  {
 ;------------------------------------------------------------------
 
 Relations:  {
-	Model: "Model::Plane", "Mesh" {
+	Model: "Model::Dollar", "Mesh" {
 	}
 	Model: "Model::Camera", "Camera" {
 	}
@@ -1978,14 +1978,14 @@ Relations:  {
 ;------------------------------------------------------------------
 
 Connections:  {
-	Connect: "OO", "Model::Plane", "Model::Scene"
+	Connect: "OO", "Model::Dollar", "Model::Scene"
 	Connect: "OO", "Model::Lamp_001", "Model::Scene"
 	Connect: "OO", "Model::Lamp", "Model::Scene"
 	Connect: "OO", "Model::Camera", "Model::Scene"
-	Connect: "OO", "Material::Material_001__backdollar_jpg", "Model::Plane"
-	Connect: "OO", "Material::Material_001__frontdollar_jpg", "Model::Plane"
-	Connect: "OO", "Texture::backdollar_jpg", "Model::Plane"
-	Connect: "OO", "Texture::frontdollar_jpg", "Model::Plane"
+	Connect: "OO", "Material::Material_001__backdollar_jpg", "Model::Dollar"
+	Connect: "OO", "Material::Material_001__frontdollar_jpg", "Model::Dollar"
+	Connect: "OO", "Texture::backdollar_jpg", "Model::Dollar"
+	Connect: "OO", "Texture::frontdollar_jpg", "Model::Dollar"
 	Connect: "OO", "Video::backdollar_jpg", "Texture::backdollar_jpg"
 	Connect: "OO", "Video::frontdollar_jpg", "Texture::frontdollar_jpg"
 }
@@ -2001,7 +2001,7 @@ Takes:  {
 
 		;Models animation
 		;----------------------------------------------------
-		Model: "Model::Plane" {
+		Model: "Model::Dollar" {
 			Version: 1.1
 			Channel: "Transform" {
 				Channel: "T" {
