@@ -10,10 +10,10 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2015
 		Month: 05
-		Day: 20
-		Hour: 16
-		Minute: 57
-		Second: 10
+		Day: 27
+		Hour: 13
+		Minute: 41
+		Second: 07
 		Millisecond: 0
 	}
 	Creator: "FBX SDK/FBX Plugins build 20070228"
@@ -21,7 +21,7 @@ FBXHeaderExtension:  {
 		FlagPLE: 0
 	}
 }
-CreationTime: "2015-05-20 16:57:10:000"
+CreationTime: "2015-05-27 13:41:07:000"
 Creator: "Blender version 2.67 (sub 0)"
 
 ; Object definitions
@@ -640,7 +640,7 @@ Objects:  {
 			Name: ""
 			MappingInformationType: "ByPolygon"
 			ReferenceInformationType: "Direct"
-			Smoothing: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+			Smoothing: 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 		}
 		LayerElementUV: 0 {
 			Version: 101

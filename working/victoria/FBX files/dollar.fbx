@@ -10,10 +10,10 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2015
 		Month: 05
-		Day: 22
-		Hour: 12
-		Minute: 19
-		Second: 37
+		Day: 27
+		Hour: 13
+		Minute: 41
+		Second: 34
 		Millisecond: 0
 	}
 	Creator: "FBX SDK/FBX Plugins build 20070228"
@@ -21,7 +21,7 @@ FBXHeaderExtension:  {
 		FlagPLE: 0
 	}
 }
-CreationTime: "2015-05-22 12:19:37:000"
+CreationTime: "2015-05-27 13:41:34:000"
 Creator: "Blender version 2.67 (sub 0)"
 
 ; Object definitions
@@ -302,7 +302,7 @@ Objects:  {
 		Properties60:  {
 			Property: "QuaternionInterpolate", "bool", "",0
 			Property: "Visibility", "Visibility", "A+",1
-			Property: "Lcl Translation", "Lcl Translation", "A+",2.529356479644775,-4.378079414367676,-2.499666690826416
+			Property: "Lcl Translation", "Lcl Translation", "A+",-0.129334926605225,-0.868642330169678,0.292300343513489
 			Property: "Lcl Rotation", "Lcl Rotation", "A+",47.533574547422390,107.220753553002154,10.743666437040241
 			Property: "Lcl Scaling", "Lcl Scaling", "A+",1.000000000000000,0.999999880790710,1.000000000000000
 			Property: "RotationOffset", "Vector3D", "",0,0,0
@@ -412,7 +412,7 @@ Objects:  {
 		Properties60:  {
 			Property: "QuaternionInterpolate", "bool", "",0
 			Property: "Visibility", "Visibility", "A+",1
-			Property: "Lcl Translation", "Lcl Translation", "A+",-4.199126243591309,5.903861999511719,-1.005453944206238
+			Property: "Lcl Translation", "Lcl Translation", "A+",0.095968246459961,1.451176166534424,-0.087232172489166
 			Property: "Lcl Rotation", "Lcl Rotation", "A+",47.533574547422390,107.220753553002154,10.743666437040241
 			Property: "Lcl Scaling", "Lcl Scaling", "A+",1.000000000000000,0.999999880790710,1.000000000000000
 			Property: "RotationOffset", "Vector3D", "",0,0,0
@@ -616,7 +616,7 @@ Objects:  {
 			Name: ""
 			MappingInformationType: "ByPolygon"
 			ReferenceInformationType: "Direct"
-			Smoothing: 0,0,0,0,0,0
+			Smoothing: 1,1,1,1,1,1
 		}
 		LayerElementUV: 0 {
 			Version: 101
@@ -2178,27 +2178,27 @@ Takes:  {
 			Channel: "Transform" {
 				Channel: "T" {
 					Channel: "X" {
-						Default: 2.529356479644775
+						Default: -0.129334926605225
 						KeyVer: 4005
 						KeyCount: 1
 						Key: 
-							1924423250,2.529356479644775,L
+							1924423250,-0.129334926605225,L
 						Color: 1,0,0
 					}
 					Channel: "Y" {
-						Default: -4.378079414367676
+						Default: -0.868642330169678
 						KeyVer: 4005
 						KeyCount: 1
 						Key: 
-							1924423250,-4.378079414367676,L
+							1924423250,-0.868642330169678,L
 						Color: 0,1,0
 					}
 					Channel: "Z" {
-						Default: -2.499666690826416
+						Default: 0.292300343513489
 						KeyVer: 4005
 						KeyCount: 1
 						Key: 
-							1924423250,-2.499666690826416,L
+							1924423250,0.292300343513489,L
 						Color: 0,0,1
 					}
 					LayerType: 1
@@ -2264,27 +2264,27 @@ Takes:  {
 			Channel: "Transform" {
 				Channel: "T" {
 					Channel: "X" {
-						Default: -4.199126243591309
+						Default: 0.095968246459961
 						KeyVer: 4005
 						KeyCount: 1
 						Key: 
-							1924423250,-4.199126243591309,L
+							1924423250,0.095968246459961,L
 						Color: 1,0,0
 					}
 					Channel: "Y" {
-						Default: 5.903861999511719
+						Default: 1.451176166534424
 						KeyVer: 4005
 						KeyCount: 1
 						Key: 
-							1924423250,5.903861999511719,L
+							1924423250,1.451176166534424,L
 						Color: 0,1,0
 					}
 					Channel: "Z" {
-						Default: -1.005453944206238
+						Default: -0.087232172489166
 						KeyVer: 4005
 						KeyCount: 1
 						Key: 
-							1924423250,-1.005453944206238,L
+							1924423250,-0.087232172489166,L
 						Color: 0,0,1
 					}
 					LayerType: 1
