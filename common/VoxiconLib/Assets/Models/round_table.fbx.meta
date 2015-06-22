@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: e8a2c47d17f0435468d7eec785375463
-timeCreated: 1434933932
+guid: b0737a6e79589e8489e2d1099b907202
+timeCreated: 1434933729
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -17,8 +17,8 @@ ModelImporter:
     2300002: Table Top
     3300000: Table Legs
     3300002: Table Top
-    4300000: Table Top
-    4300002: Table Legs
+    4300000: Table Legs
+    4300002: Table Top
   materials:
     importMaterials: 1
     materialName: 0
