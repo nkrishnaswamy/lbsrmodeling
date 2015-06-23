@@ -1,25 +1,15 @@
 fileFormatVersion: 2
-guid: f1075d993a7724721b2a5006b7a87211
-timeCreated: 1434427909
+guid: 7bf8c8b823147471e86f27b917bb268e
+timeCreated: 1434435294
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Blackboard
-    100002: //RootNode
-    100004: BlackboardRubberBase
-    400000: Blackboard
-    400002: //RootNode
-    400004: BlackboardRubberBase
-    2300000: Blackboard
-    2300002: //RootNode
-    2300004: BlackboardRubberBase
-    3300000: Blackboard
-    3300002: //RootNode
-    3300004: BlackboardRubberBase
-    4300000: BlackboardFrame
-    4300002: BlackboardRubberBase
-    4300004: Blackboard
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Map
   materials:
     importMaterials: 1
     materialName: 0
