@@ -1,20 +1,25 @@
 fileFormatVersion: 2
-guid: d97b5994bc8474c7cae4e53d96ab3144
-timeCreated: 1435124730
+guid: 30b153693128047f6a70b900be83c38d
+timeCreated: 1435263001
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
-    100002: StampTop
+    100002: PackageCover
+    100004: PackageInside
     400000: //RootNode
-    400002: StampTop
+    400002: PackageCover
+    400004: PackageInside
     2300000: //RootNode
-    2300002: StampTop
+    2300002: PackageCover
+    2300004: PackageInside
     3300000: //RootNode
-    3300002: StampTop
-    4300000: Stamp
-    4300002: StampTop
+    3300002: PackageCover
+    3300004: PackageInside
+    4300000: Package
+    4300002: PackageCover
+    4300004: PackageInside
   materials:
     importMaterials: 1
     materialName: 0
