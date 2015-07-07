@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 1f089a6821b0d90479bd404ba8b97946
-timeCreated: 1435077044
+guid: e8a1f55e12d7def448850a54a2ac9c25
+timeCreated: 1436282634
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Cube
-    100002: //RootNode
+    100000: //RootNode
+    100002: girder
     100004: Lamp
-    400000: Cube
-    400002: //RootNode
+    400000: //RootNode
+    400002: girder
     400004: Lamp
-    2300000: Cube
-    3300000: Cube
-    4300000: Cube
+    2300000: girder
+    3300000: girder
+    4300000: girder
   materials:
     importMaterials: 1
     materialName: 0
