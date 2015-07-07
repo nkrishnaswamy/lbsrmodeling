@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: b61ba1926f482a44d9cda7101d29ba06
-timeCreated: 1435097515
+guid: 06343ee08269bab42b7a404ce940a022
+timeCreated: 1436283361
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Chip
-    100002: //RootNode
+    100000: //RootNode
+    100002: corn_chip
     100004: Lamp
-    400000: Chip
-    400002: //RootNode
+    400000: //RootNode
+    400002: corn_chip
     400004: Lamp
-    2300000: Chip
-    3300000: Chip
-    4300000: Chip
+    2300000: corn_chip
+    3300000: corn_chip
+    4300000: corn_chip
   materials:
     importMaterials: 1
     materialName: 0
