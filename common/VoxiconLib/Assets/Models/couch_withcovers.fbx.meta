@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 21822b6a9ba174359926ae89a61eab34
+timeCreated: 1436436644
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm rest
+    100002: arm rest 2
+    100004: arm rest cover
+    100006: arm rest cover 2
+    100008: back
+    100010: back cushion
+    100012: back cushion 2
+    100014: bottom platform
+    100016: cushion
+    100018: cushion 2
+    100020: //RootNode
+    100022: leg peg
+    100024: leg peg 2
+    100026: leg peg 3
+    100028: leg peg 4
+    400000: arm rest
+    400002: arm rest 2
+    400004: arm rest cover
+    400006: arm rest cover 2
+    400008: back
+    400010: back cushion
+    400012: back cushion 2
+    400014: bottom platform
+    400016: cushion
+    400018: cushion 2
+    400020: //RootNode
+    400022: leg peg
+    400024: leg peg 2
+    400026: leg peg 3
+    400028: leg peg 4
+    2300000: arm rest
+    2300002: arm rest 2
+    2300004: arm rest cover
+    2300006: arm rest cover 2
+    2300008: back
+    2300010: back cushion
+    2300012: back cushion 2
+    2300014: bottom platform
+    2300016: cushion
+    2300018: cushion 2
+    2300020: leg peg
+    2300022: leg peg 2
+    2300024: leg peg 3
+    2300026: leg peg 4
+    3300000: arm rest
+    3300002: arm rest 2
+    3300004: arm rest cover
+    3300006: arm rest cover 2
+    3300008: back
+    3300010: back cushion
+    3300012: back cushion 2
+    3300014: bottom platform
+    3300016: cushion
+    3300018: cushion 2
+    3300020: leg peg
+    3300022: leg peg 2
+    3300024: leg peg 3
+    3300026: leg peg 4
+    4300000: leg peg 4
+    4300002: leg peg 3
+    4300004: leg peg 2
+    4300006: leg peg
+    4300008: arm rest
+    4300010: arm rest cover
+    4300012: arm rest cover 2
+    4300014: back cushion 2
+    4300016: back cushion
+    4300018: cushion 2
+    4300020: cushion
+    4300022: back
+    4300024: arm rest 2
+    4300026: bottom platform
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
