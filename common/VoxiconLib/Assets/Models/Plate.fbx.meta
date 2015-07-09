@@ -6,10 +6,20 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: base
+    100004: top
     400000: //RootNode
+    400002: base
+    400004: top
     2300000: //RootNode
+    2300002: base
+    2300004: top
     3300000: //RootNode
+    3300002: base
+    3300004: top
     4300000: Plate
+    4300002: top
+    4300004: base
   materials:
     importMaterials: 1
     materialName: 0
