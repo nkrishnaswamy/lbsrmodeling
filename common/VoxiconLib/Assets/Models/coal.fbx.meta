@@ -1,25 +1,40 @@
 fileFormatVersion: 2
-guid: 1e58808ee8accc24d86623071750446f
-timeCreated: 1435084635
+guid: 454fb4063a58c4beaa532e28e002011f
+timeCreated: 1436407226
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
-    100002: base
-    100004: top
+    100002: Coal
+    100004: Coal.001
+    100006: Coal.002
+    100008: Coal.003
+    100010: ContainerInside
     400000: //RootNode
-    400002: base
-    400004: top
-    2300000: //RootNode
-    2300002: base
-    2300004: top
-    3300000: //RootNode
-    3300002: base
-    3300004: top
-    4300000: Plate
-    4300002: top
-    4300004: base
+    400002: Coal
+    400004: Coal.001
+    400006: Coal.002
+    400008: Coal.003
+    400010: ContainerInside
+    2300000: Coal
+    2300002: //RootNode
+    2300004: Coal.001
+    2300006: Coal.002
+    2300008: Coal.003
+    2300010: ContainerInside
+    3300000: Coal
+    3300002: //RootNode
+    3300004: Coal.001
+    3300006: Coal.002
+    3300008: Coal.003
+    3300010: ContainerInside
+    4300000: Container
+    4300002: Coal.003
+    4300004: ContainerInside
+    4300006: Coal.001
+    4300008: Coal
+    4300010: Coal.002
   materials:
     importMaterials: 1
     materialName: 0
