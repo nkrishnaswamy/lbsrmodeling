@@ -1,35 +1,40 @@
 fileFormatVersion: 2
-guid: b71dfa9b012f848799dbf96923766580
-timeCreated: 1436808726
+guid: 24f3c6c3500414da2bbd30cb2b9d5362
+timeCreated: 1436810518
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: doors
     100002: //RootNode
-    100004: smokeStacks
-    100006: SmokeStacksInside
-    100008: windows
+    100004: FactoryRoof
+    100006: smokeStacks
+    100008: SmokeStacksInside
+    100010: windows
     400000: doors
     400002: //RootNode
-    400004: smokeStacks
-    400006: SmokeStacksInside
-    400008: windows
+    400004: FactoryRoof
+    400006: smokeStacks
+    400008: SmokeStacksInside
+    400010: windows
     2300000: doors
     2300002: //RootNode
-    2300004: smokeStacks
-    2300006: SmokeStacksInside
-    2300008: windows
+    2300004: FactoryRoof
+    2300006: smokeStacks
+    2300008: SmokeStacksInside
+    2300010: windows
     3300000: doors
     3300002: //RootNode
-    3300004: smokeStacks
-    3300006: SmokeStacksInside
-    3300008: windows
+    3300004: FactoryRoof
+    3300006: smokeStacks
+    3300008: SmokeStacksInside
+    3300010: windows
     4300000: Factory
-    4300002: windows
-    4300004: smokeStacks
-    4300006: doors
-    4300008: SmokeStacksInside
+    4300002: FactoryRoof
+    4300004: windows
+    4300006: smokeStacks
+    4300008: doors
+    4300010: SmokeStacksInside
   materials:
     importMaterials: 1
     materialName: 0
