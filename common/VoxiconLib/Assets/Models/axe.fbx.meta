@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 9ed8e0894fd8a81479a61d97c0f17e4a
-timeCreated: 1436274575
+guid: ba2b7b6e1af69d844ae7ce4adb9672f0
+timeCreated: 1436722116
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Axe Blade
-    100004: Axe Handle
+    100002: axe_blade
+    100004: axe_handle
     400000: //RootNode
-    400002: Axe Blade
-    400004: Axe Handle
-    2300000: Axe Blade
-    2300002: Axe Handle
-    3300000: Axe Blade
-    3300002: Axe Handle
-    4300000: Axe Handle
-    4300002: Axe Blade
+    400002: axe_blade
+    400004: axe_handle
+    2300000: axe_blade
+    2300002: axe_handle
+    3300000: axe_blade
+    3300002: axe_handle
+    4300000: axe_handle
+    4300002: axe_blade
   materials:
     importMaterials: 1
     materialName: 0

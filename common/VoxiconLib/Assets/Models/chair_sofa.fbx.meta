@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: cfc8053993fe34984a3d36ece6eab482
+timeCreated: 1436686821
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm chair back pillow
+    100002: arm chair back pillow_MeshPart0
+    100004: arm chair back pillow_MeshPart1
+    100006: arm rests
+    100008: arm rests_MeshPart0
+    100010: arm rests_MeshPart1
+    100012: arm rests_MeshPart10
+    100014: arm rests_MeshPart11
+    100016: arm rests_MeshPart12
+    100018: arm rests_MeshPart13
+    100020: arm rests_MeshPart14
+    100022: arm rests_MeshPart2
+    100024: arm rests_MeshPart3
+    100026: arm rests_MeshPart4
+    100028: arm rests_MeshPart5
+    100030: arm rests_MeshPart6
+    100032: arm rests_MeshPart7
+    100034: arm rests_MeshPart8
+    100036: arm rests_MeshPart9
+    100038: armchair back
+    100040: armchair back_MeshPart0
+    100042: armchair back_MeshPart1
+    100044: armchair back_MeshPart2
+    100046: chair base
+    100048: chair base_MeshPart0
+    100050: chair base_MeshPart1
+    100052: chair base_MeshPart2
+    100054: cushion
+    100056: cushion_MeshPart0
+    100058: cushion_MeshPart1
+    100060: cushion_MeshPart2
+    100062: //RootNode
+    400000: arm chair back pillow
+    400002: arm chair back pillow_MeshPart0
+    400004: arm chair back pillow_MeshPart1
+    400006: arm rests
+    400008: arm rests_MeshPart0
+    400010: arm rests_MeshPart1
+    400012: arm rests_MeshPart10
+    400014: arm rests_MeshPart11
+    400016: arm rests_MeshPart12
+    400018: arm rests_MeshPart13
+    400020: arm rests_MeshPart14
+    400022: arm rests_MeshPart2
+    400024: arm rests_MeshPart3
+    400026: arm rests_MeshPart4
+    400028: arm rests_MeshPart5
+    400030: arm rests_MeshPart6
+    400032: arm rests_MeshPart7
+    400034: arm rests_MeshPart8
+    400036: arm rests_MeshPart9
+    400038: armchair back
+    400040: armchair back_MeshPart0
+    400042: armchair back_MeshPart1
+    400044: armchair back_MeshPart2
+    400046: chair base
+    400048: chair base_MeshPart0
+    400050: chair base_MeshPart1
+    400052: chair base_MeshPart2
+    400054: cushion
+    400056: cushion_MeshPart0
+    400058: cushion_MeshPart1
+    400060: cushion_MeshPart2
+    400062: //RootNode
+    2300000: arm chair back pillow_MeshPart0
+    2300002: arm chair back pillow_MeshPart1
+    2300004: arm rests_MeshPart0
+    2300006: arm rests_MeshPart1
+    2300008: arm rests_MeshPart10
+    2300010: arm rests_MeshPart11
+    2300012: arm rests_MeshPart12
+    2300014: arm rests_MeshPart13
+    2300016: arm rests_MeshPart14
+    2300018: arm rests_MeshPart2
+    2300020: arm rests_MeshPart3
+    2300022: arm rests_MeshPart4
+    2300024: arm rests_MeshPart5
+    2300026: arm rests_MeshPart6
+    2300028: arm rests_MeshPart7
+    2300030: arm rests_MeshPart8
+    2300032: arm rests_MeshPart9
+    2300034: armchair back_MeshPart0
+    2300036: armchair back_MeshPart1
+    2300038: armchair back_MeshPart2
+    2300040: chair base_MeshPart0
+    2300042: chair base_MeshPart1
+    2300044: chair base_MeshPart2
+    2300046: cushion_MeshPart0
+    2300048: cushion_MeshPart1
+    2300050: cushion_MeshPart2
+    3300000: arm chair back pillow_MeshPart0
+    3300002: arm chair back pillow_MeshPart1
+    3300004: arm rests_MeshPart0
+    3300006: arm rests_MeshPart1
+    3300008: arm rests_MeshPart10
+    3300010: arm rests_MeshPart11
+    3300012: arm rests_MeshPart12
+    3300014: arm rests_MeshPart13
+    3300016: arm rests_MeshPart14
+    3300018: arm rests_MeshPart2
+    3300020: arm rests_MeshPart3
+    3300022: arm rests_MeshPart4
+    3300024: arm rests_MeshPart5
+    3300026: arm rests_MeshPart6
+    3300028: arm rests_MeshPart7
+    3300030: arm rests_MeshPart8
+    3300032: arm rests_MeshPart9
+    3300034: armchair back_MeshPart0
+    3300036: armchair back_MeshPart1
+    3300038: armchair back_MeshPart2
+    3300040: chair base_MeshPart0
+    3300042: chair base_MeshPart1
+    3300044: chair base_MeshPart2
+    3300046: cushion_MeshPart0
+    3300048: cushion_MeshPart1
+    3300050: cushion_MeshPart2
+    4300000: arm chair back pillow_MeshPart0
+    4300002: arm chair back pillow_MeshPart1
+    4300004: arm rests_MeshPart0
+    4300006: arm rests_MeshPart1
+    4300008: arm rests_MeshPart2
+    4300010: arm rests_MeshPart3
+    4300012: arm rests_MeshPart4
+    4300014: arm rests_MeshPart5
+    4300016: arm rests_MeshPart6
+    4300018: arm rests_MeshPart7
+    4300020: arm rests_MeshPart8
+    4300022: arm rests_MeshPart9
+    4300024: arm rests_MeshPart10
+    4300026: arm rests_MeshPart11
+    4300028: arm rests_MeshPart12
+    4300030: arm rests_MeshPart13
+    4300032: arm rests_MeshPart14
+    4300034: cushion_MeshPart0
+    4300036: cushion_MeshPart1
+    4300038: cushion_MeshPart2
+    4300040: chair base_MeshPart0
+    4300042: chair base_MeshPart1
+    4300044: chair base_MeshPart2
+    4300046: armchair back_MeshPart0
+    4300048: armchair back_MeshPart1
+    4300050: armchair back_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
