@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 2d83ca5dea5eb40b9af48d585a34d77e
+timeCreated: 1436921570
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Handle
+    100002: Handle.001
+    100004: //RootNode
+    100006: TrophyBase
+    100008: trophyDetail
+    100010: TrophyInside
+    400000: Handle
+    400002: Handle.001
+    400004: //RootNode
+    400006: TrophyBase
+    400008: trophyDetail
+    400010: TrophyInside
+    2300000: Handle
+    2300002: Handle.001
+    2300004: //RootNode
+    2300006: TrophyBase
+    2300008: trophyDetail
+    2300010: TrophyInside
+    3300000: Handle
+    3300002: Handle.001
+    3300004: //RootNode
+    3300006: TrophyBase
+    3300008: trophyDetail
+    3300010: TrophyInside
+    4300000: Trophy
+    4300002: TrophyBase
+    4300004: trophyDetail
+    4300006: Handle.001
+    4300008: Handle
+    4300010: TrophyInside
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
