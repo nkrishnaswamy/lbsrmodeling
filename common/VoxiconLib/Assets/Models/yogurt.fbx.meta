@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: afe10cd9942d2a0418d14d07e4859b7c
+timeCreated: 1437155683
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: blueberry
+    100002: blueberry.001
+    100004: blueberry.002
+    100006: blueberry.003
+    100008: blueberry.004
+    100010: blueberry.005
+    100012: strawberry1
+    100014: strawberry2
+    100016: strawberry_stem1
+    100018: strawberry_stem2
+    100020: //RootNode
+    100022: yogurt
+    100024: yogurt bowl (interior)
+    400000: blueberry
+    400002: blueberry.001
+    400004: blueberry.002
+    400006: blueberry.003
+    400008: blueberry.004
+    400010: blueberry.005
+    400012: strawberry1
+    400014: strawberry2
+    400016: strawberry_stem1
+    400018: strawberry_stem2
+    400020: //RootNode
+    400022: yogurt
+    400024: yogurt bowl (interior)
+    2300000: blueberry
+    2300002: blueberry.001
+    2300004: blueberry.002
+    2300006: blueberry.003
+    2300008: blueberry.004
+    2300010: blueberry.005
+    2300012: strawberry1
+    2300014: strawberry2
+    2300016: strawberry_stem1
+    2300018: strawberry_stem2
+    2300020: yogurt
+    2300022: //RootNode
+    2300024: yogurt bowl (interior)
+    3300000: blueberry
+    3300002: blueberry.001
+    3300004: blueberry.002
+    3300006: blueberry.003
+    3300008: blueberry.004
+    3300010: blueberry.005
+    3300012: strawberry1
+    3300014: strawberry2
+    3300016: strawberry_stem1
+    3300018: strawberry_stem2
+    3300020: yogurt
+    3300022: //RootNode
+    3300024: yogurt bowl (interior)
+    4300000: yogurt bowl (exterior)
+    4300002: strawberry2
+    4300004: strawberry1
+    4300006: blueberry.005
+    4300008: blueberry.004
+    4300010: blueberry.003
+    4300012: blueberry.002
+    4300014: blueberry.001
+    4300016: strawberry_stem2
+    4300018: yogurt bowl (interior)
+    4300020: yogurt
+    4300022: strawberry_stem1
+    4300024: blueberry
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
