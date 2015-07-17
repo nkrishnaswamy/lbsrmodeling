@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: e0c26d521781f7c4298fa843abc953e0
+timeCreated: 1437160790
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: brussell sprouts
+    100002: brussell sprouts.001
+    100004: brussell sprouts.002
+    100006: brussell sprouts.003
+    100008: brussell sprouts.004
+    100010: Butternut Squash
+    100012: Carrot
+    100014: Carrot.001
+    100016: Corn
+    100018: Cylinder
+    100020: Cylinder.001
+    100022: Cylinder.002
+    100024: onion
+    100026: Potato
+    100028: Potato2
+    100030: stem
+    100032: stem.001
+    100034: Tomato
+    100036: Tomato.001
+    100038: Tomato.002
+    100040: //RootNode
+    400000: brussell sprouts
+    400002: brussell sprouts.001
+    400004: brussell sprouts.002
+    400006: brussell sprouts.003
+    400008: brussell sprouts.004
+    400010: Butternut Squash
+    400012: Carrot
+    400014: Carrot.001
+    400016: Corn
+    400018: Cylinder
+    400020: Cylinder.001
+    400022: Cylinder.002
+    400024: onion
+    400026: Potato
+    400028: Potato2
+    400030: stem
+    400032: stem.001
+    400034: Tomato
+    400036: Tomato.001
+    400038: Tomato.002
+    400040: //RootNode
+    2300000: brussell sprouts
+    2300002: brussell sprouts.001
+    2300004: brussell sprouts.002
+    2300006: brussell sprouts.003
+    2300008: brussell sprouts.004
+    2300010: Butternut Squash
+    2300012: Carrot
+    2300014: Carrot.001
+    2300016: Corn
+    2300018: Cylinder
+    2300020: Cylinder.001
+    2300022: Cylinder.002
+    2300024: onion
+    2300026: Potato
+    2300028: Potato2
+    2300030: stem
+    2300032: stem.001
+    2300034: Tomato
+    2300036: Tomato.001
+    2300038: Tomato.002
+    2300040: //RootNode
+    3300000: brussell sprouts
+    3300002: brussell sprouts.001
+    3300004: brussell sprouts.002
+    3300006: brussell sprouts.003
+    3300008: brussell sprouts.004
+    3300010: Butternut Squash
+    3300012: Carrot
+    3300014: Carrot.001
+    3300016: Corn
+    3300018: Cylinder
+    3300020: Cylinder.001
+    3300022: Cylinder.002
+    3300024: onion
+    3300026: Potato
+    3300028: Potato2
+    3300030: stem
+    3300032: stem.001
+    3300034: Tomato
+    3300036: Tomato.001
+    3300038: Tomato.002
+    3300040: //RootNode
+    4300000: Plate
+    4300002: Corn
+    4300004: brussell sprouts.004
+    4300006: brussell sprouts.003
+    4300008: brussell sprouts.002
+    4300010: brussell sprouts.001
+    4300012: Potato2
+    4300014: Carrot.001
+    4300016: stem.001
+    4300018: Tomato.002
+    4300020: Cylinder.002
+    4300022: Tomato.001
+    4300024: Cylinder.001
+    4300026: Tomato
+    4300028: Cylinder
+    4300030: Carrot
+    4300032: stem
+    4300034: Potato
+    4300036: Butternut Squash
+    4300038: onion
+    4300040: brussell sprouts
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
