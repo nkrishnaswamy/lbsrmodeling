@@ -1,35 +1,15 @@
 fileFormatVersion: 2
-guid: fdaba8ebc41a90d4ab1f0fc514e5e2dd
-timeCreated: 1437445211
+guid: bdc6001f7aae9e54caec0055bcc985f8
+timeCreated: 1437445590
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Lipstick
-    100002: //RootNode
-    100004: Lipstick Case (interior)
-    100006: LipstickCap
-    100008: LipstickCap (interior)
-    400000: Lipstick
-    400002: //RootNode
-    400004: Lipstick Case (interior)
-    400006: LipstickCap
-    400008: LipstickCap (interior)
-    2300000: Lipstick
-    2300002: //RootNode
-    2300004: Lipstick Case (interior)
-    2300006: LipstickCap
-    2300008: LipstickCap (interior)
-    3300000: Lipstick
-    3300002: //RootNode
-    3300004: Lipstick Case (interior)
-    3300006: LipstickCap
-    3300008: LipstickCap (interior)
-    4300000: Lipstick Case
-    4300002: LipstickCap (interior)
-    4300004: LipstickCap
-    4300006: Lipstick
-    4300008: Lipstick Case (interior)
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: magnet
   materials:
     importMaterials: 1
     materialName: 0
