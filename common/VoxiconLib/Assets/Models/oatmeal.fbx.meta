@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 738304319c5d025409a38a94fddfef2d
+timeCreated: 1437447352
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: blueberry
+    100002: blueberry1
+    100004: blueberry2
+    100006: blueberry3
+    100008: blueberry4
+    100010: Bowl (interior)
+    100012: Oatmeal
+    100014: //RootNode
+    100016: Strawberry1
+    100018: Strawberry2
+    100020: Strawberrystem1
+    100022: Strawberrystem2
+    400000: blueberry
+    400002: blueberry1
+    400004: blueberry2
+    400006: blueberry3
+    400008: blueberry4
+    400010: Bowl (interior)
+    400012: Oatmeal
+    400014: //RootNode
+    400016: Strawberry1
+    400018: Strawberry2
+    400020: Strawberrystem1
+    400022: Strawberrystem2
+    2300000: blueberry
+    2300002: blueberry1
+    2300004: blueberry2
+    2300006: blueberry3
+    2300008: blueberry4
+    2300010: Bowl (interior)
+    2300012: Oatmeal
+    2300014: //RootNode
+    2300016: Strawberry1
+    2300018: Strawberry2
+    2300020: Strawberrystem1
+    2300022: Strawberrystem2
+    3300000: blueberry
+    3300002: blueberry1
+    3300004: blueberry2
+    3300006: blueberry3
+    3300008: blueberry4
+    3300010: Bowl (interior)
+    3300012: Oatmeal
+    3300014: //RootNode
+    3300016: Strawberry1
+    3300018: Strawberry2
+    3300020: Strawberrystem1
+    3300022: Strawberrystem2
+    4300000: Bowl (exterior)
+    4300002: Strawberry2
+    4300004: Strawberry1
+    4300006: blueberry4
+    4300008: blueberry3
+    4300010: Bowl (interior)
+    4300012: Strawberrystem2
+    4300014: blueberry2
+    4300016: blueberry1
+    4300018: Oatmeal
+    4300020: blueberry
+    4300022: Strawberrystem1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
