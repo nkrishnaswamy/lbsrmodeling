@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: bfaec1f5fddd9fe448928be5dd27453b
+timeCreated: 1437580058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Toaster (base)
+    100004: Toaster (interior)
+    100006: Toaster buttons
+    100008: Toaster Handle
+    100010: Toaster heat-adjuster
+    100012: Toaster lever for Handle
+    100014: Toaster stands
+    400000: //RootNode
+    400002: Toaster (base)
+    400004: Toaster (interior)
+    400006: Toaster buttons
+    400008: Toaster Handle
+    400010: Toaster heat-adjuster
+    400012: Toaster lever for Handle
+    400014: Toaster stands
+    2300000: //RootNode
+    2300002: Toaster (base)
+    2300004: Toaster (interior)
+    2300006: Toaster buttons
+    2300008: Toaster Handle
+    2300010: Toaster heat-adjuster
+    2300012: Toaster lever for Handle
+    2300014: Toaster stands
+    3300000: //RootNode
+    3300002: Toaster (base)
+    3300004: Toaster (interior)
+    3300006: Toaster buttons
+    3300008: Toaster Handle
+    3300010: Toaster heat-adjuster
+    3300012: Toaster lever for Handle
+    3300014: Toaster stands
+    4300000: Toaster (exterior)
+    4300002: Toaster buttons
+    4300004: Toaster heat-adjuster
+    4300006: Toaster stands
+    4300008: Toaster (base)
+    4300010: Toaster lever for Handle
+    4300012: Toaster Handle
+    4300014: Toaster (interior)
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
