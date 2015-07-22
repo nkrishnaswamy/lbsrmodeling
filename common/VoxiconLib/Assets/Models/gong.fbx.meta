@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 0eadf34c29180413fa34274d7e81fe9f
+timeCreated: 1437544953
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: floor leg
+    100002: floor leg 2
+    100004: floor leg 3
+    100006: 'gong '
+    100008: gong stick
+    100010: //RootNode
+    100012: middle
+    100014: poll
+    100016: poll 2
+    100018: string
+    100020: string 2
+    100022: Sun
+    100024: top
+    400000: floor leg
+    400002: floor leg 2
+    400004: floor leg 3
+    400006: 'gong '
+    400008: gong stick
+    400010: //RootNode
+    400012: middle
+    400014: poll
+    400016: poll 2
+    400018: string
+    400020: string 2
+    400022: Sun
+    400024: top
+    2300000: floor leg
+    2300002: floor leg 2
+    2300004: floor leg 3
+    2300006: 'gong '
+    2300008: gong stick
+    2300010: middle
+    2300012: poll
+    2300014: poll 2
+    2300016: string
+    2300018: string 2
+    2300020: top
+    3300000: floor leg
+    3300002: floor leg 2
+    3300004: floor leg 3
+    3300006: 'gong '
+    3300008: gong stick
+    3300010: middle
+    3300012: poll
+    3300014: poll 2
+    3300016: string
+    3300018: string 2
+    3300020: top
+    4300000: gong stick
+    4300002: 'gong '
+    4300004: string 2
+    4300006: string
+    4300008: top
+    4300010: middle
+    4300012: poll 2
+    4300014: poll
+    4300016: floor leg 2
+    4300018: floor leg 3
+    4300020: floor leg
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
