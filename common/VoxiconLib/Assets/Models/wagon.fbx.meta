@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 51540e17bdacc8f4ca576b716d068a6f
+timeCreated: 1437524811
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: wagon cylinder
+    100004: Wagon handle
+    100006: wagon left back tire
+    100008: wagon left back wheel disk
+    100010: wagon left front tire
+    100012: wagon left front wheel disk
+    100014: wagon right back tire
+    100016: wagon right back wheel disk
+    100018: wagon right front tire
+    100020: wagon right front wheel disk
+    400000: //RootNode
+    400002: wagon cylinder
+    400004: Wagon handle
+    400006: wagon left back tire
+    400008: wagon left back wheel disk
+    400010: wagon left front tire
+    400012: wagon left front wheel disk
+    400014: wagon right back tire
+    400016: wagon right back wheel disk
+    400018: wagon right front tire
+    400020: wagon right front wheel disk
+    2300000: //RootNode
+    2300002: wagon cylinder
+    2300004: Wagon handle
+    2300006: wagon left back tire
+    2300008: wagon left back wheel disk
+    2300010: wagon left front tire
+    2300012: wagon left front wheel disk
+    2300014: wagon right back tire
+    2300016: wagon right back wheel disk
+    2300018: wagon right front tire
+    2300020: wagon right front wheel disk
+    3300000: //RootNode
+    3300002: wagon cylinder
+    3300004: Wagon handle
+    3300006: wagon left back tire
+    3300008: wagon left back wheel disk
+    3300010: wagon left front tire
+    3300012: wagon left front wheel disk
+    3300014: wagon right back tire
+    3300016: wagon right back wheel disk
+    3300018: wagon right front tire
+    3300020: wagon right front wheel disk
+    4300000: Wagon
+    4300002: wagon right back tire
+    4300004: wagon right back wheel disk
+    4300006: wagon left back wheel disk
+    4300008: wagon left back tire
+    4300010: wagon cylinder
+    4300012: Wagon handle
+    4300014: wagon left front tire
+    4300016: wagon left front wheel disk
+    4300018: wagon right front wheel disk
+    4300020: wagon right front tire
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
