@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 24ba1a1f6ed3f76468beef879f3c1e41
+timeCreated: 1437584517
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: berry bowl (interior)
+    100004: blueberry
+    100006: blueberry.001
+    100008: blueberry.002
+    100010: blueberry.003
+    100012: blueberry.005
+    100014: blueberry.006
+    100016: cherry
+    100018: cherry stem
+    100020: cherry stem.001
+    100022: cherry stem.002
+    100024: cherry stem.003
+    100026: cherry.001
+    100028: cherry.002
+    100030: cherry.003
+    100032: cranberry
+    100034: cranberry.001
+    100036: cranberry.002
+    100038: Half Kiwi 1
+    100040: Half Kiwi 2
+    100042: Half Kiwi Skin 1
+    100044: Half Kiwi Skin 2
+    100046: Kiwi
+    100048: Strawberry
+    100050: Strawberry.001
+    100052: Strawberry.002
+    100054: Strawberry.003
+    100056: Strawberry_stem
+    100058: Strawberry_stem.001
+    100060: Strawberry_stem.002
+    100062: Strawberry_stem.003
+    400000: //RootNode
+    400002: berry bowl (interior)
+    400004: blueberry
+    400006: blueberry.001
+    400008: blueberry.002
+    400010: blueberry.003
+    400012: blueberry.005
+    400014: blueberry.006
+    400016: cherry
+    400018: cherry stem
+    400020: cherry stem.001
+    400022: cherry stem.002
+    400024: cherry stem.003
+    400026: cherry.001
+    400028: cherry.002
+    400030: cherry.003
+    400032: cranberry
+    400034: cranberry.001
+    400036: cranberry.002
+    400038: Half Kiwi 1
+    400040: Half Kiwi 2
+    400042: Half Kiwi Skin 1
+    400044: Half Kiwi Skin 2
+    400046: Kiwi
+    400048: Strawberry
+    400050: Strawberry.001
+    400052: Strawberry.002
+    400054: Strawberry.003
+    400056: Strawberry_stem
+    400058: Strawberry_stem.001
+    400060: Strawberry_stem.002
+    400062: Strawberry_stem.003
+    2300000: //RootNode
+    2300002: berry bowl (interior)
+    2300004: blueberry
+    2300006: blueberry.001
+    2300008: blueberry.002
+    2300010: blueberry.003
+    2300012: blueberry.005
+    2300014: blueberry.006
+    2300016: cherry
+    2300018: cherry stem
+    2300020: cherry stem.001
+    2300022: cherry stem.002
+    2300024: cherry stem.003
+    2300026: cherry.001
+    2300028: cherry.002
+    2300030: cherry.003
+    2300032: cranberry
+    2300034: cranberry.001
+    2300036: cranberry.002
+    2300038: Half Kiwi 1
+    2300040: Half Kiwi 2
+    2300042: Half Kiwi Skin 1
+    2300044: Half Kiwi Skin 2
+    2300046: Kiwi
+    2300048: Strawberry
+    2300050: Strawberry.001
+    2300052: Strawberry.002
+    2300054: Strawberry.003
+    2300056: Strawberry_stem
+    2300058: Strawberry_stem.001
+    2300060: Strawberry_stem.002
+    2300062: Strawberry_stem.003
+    3300000: //RootNode
+    3300002: berry bowl (interior)
+    3300004: blueberry
+    3300006: blueberry.001
+    3300008: blueberry.002
+    3300010: blueberry.003
+    3300012: blueberry.005
+    3300014: blueberry.006
+    3300016: cherry
+    3300018: cherry stem
+    3300020: cherry stem.001
+    3300022: cherry stem.002
+    3300024: cherry stem.003
+    3300026: cherry.001
+    3300028: cherry.002
+    3300030: cherry.003
+    3300032: cranberry
+    3300034: cranberry.001
+    3300036: cranberry.002
+    3300038: Half Kiwi 1
+    3300040: Half Kiwi 2
+    3300042: Half Kiwi Skin 1
+    3300044: Half Kiwi Skin 2
+    3300046: Kiwi
+    3300048: Strawberry
+    3300050: Strawberry.001
+    3300052: Strawberry.002
+    3300054: Strawberry.003
+    3300056: Strawberry_stem
+    3300058: Strawberry_stem.001
+    3300060: Strawberry_stem.002
+    3300062: Strawberry_stem.003
+    4300000: berry bowl (exterior)
+    4300002: Half Kiwi 2
+    4300004: Half Kiwi 1
+    4300006: blueberry.005
+    4300008: cherry.002
+    4300010: cherry stem.002
+    4300012: cherry.001
+    4300014: cherry stem.001
+    4300016: blueberry.006
+    4300018: Strawberry.003
+    4300020: Strawberry_stem.003
+    4300022: blueberry.003
+    4300024: blueberry.002
+    4300026: blueberry.001
+    4300028: cherry.003
+    4300030: cherry stem.003
+    4300032: Half Kiwi Skin 2
+    4300034: Strawberry.002
+    4300036: Strawberry_stem.002
+    4300038: Strawberry.001
+    4300040: Strawberry_stem.001
+    4300042: cranberry.002
+    4300044: cranberry.001
+    4300046: berry bowl (interior)
+    4300048: Strawberry
+    4300050: Strawberry_stem
+    4300052: Half Kiwi Skin 1
+    4300054: cherry
+    4300056: cherry stem
+    4300058: cranberry
+    4300060: blueberry
+    4300062: Kiwi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
