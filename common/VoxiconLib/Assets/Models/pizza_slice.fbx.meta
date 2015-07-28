@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 9cf8d0fe1dcc041749e562fbcd4bf98d
+timeCreated: 1438072215
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: base
+    100002: cheese
+    100004: crust
+    100006: //RootNode
+    100008: olive
+    100010: olive.001
+    100012: olive.002
+    100014: olive.003
+    100016: olive.004
+    100018: olive.005
+    100020: olive.006
+    100022: olive.007
+    100024: olive.008
+    100026: pepperoni
+    100028: pepperoni.001
+    100030: pepperoni.002
+    100032: pepperoni.003
+    100034: pepperoni.004
+    100036: pepperoni.005
+    400000: base
+    400002: cheese
+    400004: crust
+    400006: //RootNode
+    400008: olive
+    400010: olive.001
+    400012: olive.002
+    400014: olive.003
+    400016: olive.004
+    400018: olive.005
+    400020: olive.006
+    400022: olive.007
+    400024: olive.008
+    400026: pepperoni
+    400028: pepperoni.001
+    400030: pepperoni.002
+    400032: pepperoni.003
+    400034: pepperoni.004
+    400036: pepperoni.005
+    2300000: base
+    2300002: cheese
+    2300004: crust
+    2300006: olive
+    2300008: olive.001
+    2300010: olive.002
+    2300012: olive.003
+    2300014: olive.004
+    2300016: olive.005
+    2300018: olive.006
+    2300020: olive.007
+    2300022: olive.008
+    2300024: pepperoni
+    2300026: pepperoni.001
+    2300028: pepperoni.002
+    2300030: pepperoni.003
+    2300032: pepperoni.004
+    2300034: pepperoni.005
+    3300000: base
+    3300002: cheese
+    3300004: crust
+    3300006: olive
+    3300008: olive.001
+    3300010: olive.002
+    3300012: olive.003
+    3300014: olive.004
+    3300016: olive.005
+    3300018: olive.006
+    3300020: olive.007
+    3300022: olive.008
+    3300024: pepperoni
+    3300026: pepperoni.001
+    3300028: pepperoni.002
+    3300030: pepperoni.003
+    3300032: pepperoni.004
+    3300034: pepperoni.005
+    4300000: pepperoni.005
+    4300002: pepperoni.004
+    4300004: pepperoni.003
+    4300006: olive.006
+    4300008: olive.005
+    4300010: pepperoni.002
+    4300012: olive.004
+    4300014: olive.008
+    4300016: base
+    4300018: pepperoni.001
+    4300020: olive.003
+    4300022: olive.001
+    4300024: pepperoni
+    4300026: olive
+    4300028: cheese
+    4300030: olive.002
+    4300032: olive.007
+    4300034: crust
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
