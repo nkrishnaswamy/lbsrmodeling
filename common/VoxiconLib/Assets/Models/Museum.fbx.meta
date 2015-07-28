@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 1e63cc1cf43834c05b9dbd07c6a968b8
-timeCreated: 1438043272
+guid: be453819ade47430fa9111d4b2965298
+timeCreated: 1438051606
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,27 +9,32 @@ ModelImporter:
     100002: //RootNode
     100004: museumText
     100006: pillars
-    100008: signBoard
+    100008: roof
+    100010: signBoard
     400000: door.001
     400002: //RootNode
     400004: museumText
     400006: pillars
-    400008: signBoard
+    400008: roof
+    400010: signBoard
     2300000: door.001
     2300002: //RootNode
     2300004: museumText
     2300006: pillars
-    2300008: signBoard
+    2300008: roof
+    2300010: signBoard
     3300000: door.001
     3300002: //RootNode
     3300004: museumText
     3300006: pillars
-    3300008: signBoard
+    3300008: roof
+    3300010: signBoard
     4300000: Museum
-    4300002: pillars
-    4300004: door.001
-    4300006: signBoard
-    4300008: museumText
+    4300002: roof
+    4300004: pillars
+    4300006: door.001
+    4300008: signBoard
+    4300010: museumText
   materials:
     importMaterials: 1
     materialName: 0
