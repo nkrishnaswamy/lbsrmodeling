@@ -1,35 +1,40 @@
 fileFormatVersion: 2
-guid: f2aed5f69a01a40309450b94df90036a
-timeCreated: 1437589543
+guid: 1d46d49d5621745d39944987996ab24f
+timeCreated: 1438147495
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: brand
-    100002: canInside
-    100004: //RootNode
-    100006: canTop
-    100008: tab
-    400000: brand
-    400002: canInside
-    400004: //RootNode
-    400006: canTop
-    400008: tab
-    2300000: brand
-    2300002: canInside
-    2300004: //RootNode
-    2300006: canTop
-    2300008: tab
-    3300000: brand
-    3300002: canInside
-    3300004: //RootNode
-    3300006: canTop
-    3300008: tab
-    4300000: canOfTuna
-    4300002: brand
-    4300004: tab
-    4300006: canTop
-    4300008: canInside
+    100000: CanTab
+    100002: //RootNode
+    100004: sodaBase
+    100006: sodaBrand
+    100008: sodaCanTopCover
+    100010: SodaInside
+    400000: CanTab
+    400002: //RootNode
+    400004: sodaBase
+    400006: sodaBrand
+    400008: sodaCanTopCover
+    400010: SodaInside
+    2300000: CanTab
+    2300002: //RootNode
+    2300004: sodaBase
+    2300006: sodaBrand
+    2300008: sodaCanTopCover
+    2300010: SodaInside
+    3300000: CanTab
+    3300002: //RootNode
+    3300004: sodaBase
+    3300006: sodaBrand
+    3300008: sodaCanTopCover
+    3300010: SodaInside
+    4300000: Soda
+    4300002: sodaBrand
+    4300004: sodaBase
+    4300006: sodaCanTopCover
+    4300008: SodaInside
+    4300010: CanTab
   materials:
     importMaterials: 1
     materialName: 0
