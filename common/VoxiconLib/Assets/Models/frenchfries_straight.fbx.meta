@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 0bf39306f6d7946859fb4224edc91a96
+timeCreated: 1438326473
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: box
+    100002: fry
+    100004: fry.001
+    100006: fry.002
+    100008: fry.003
+    100010: fry.004
+    100012: fry.005
+    100014: fry.006
+    100016: fry.007
+    100018: fry.008
+    100020: fry.009
+    100022: fry.010
+    100024: fry.011
+    100026: fry.012
+    100028: fry.013
+    100030: fry.014
+    100032: fry.015
+    100034: fry.016
+    100036: fry.017
+    100038: fry.018
+    100040: fry.019
+    100042: fry.020
+    100044: fry.021
+    100046: fry.022
+    100048: fry.023
+    100050: fry.024
+    100052: fry.025
+    100054: interior
+    100056: //RootNode
+    400000: box
+    400002: fry
+    400004: fry.001
+    400006: fry.002
+    400008: fry.003
+    400010: fry.004
+    400012: fry.005
+    400014: fry.006
+    400016: fry.007
+    400018: fry.008
+    400020: fry.009
+    400022: fry.010
+    400024: fry.011
+    400026: fry.012
+    400028: fry.013
+    400030: fry.014
+    400032: fry.015
+    400034: fry.016
+    400036: fry.017
+    400038: fry.018
+    400040: fry.019
+    400042: fry.020
+    400044: fry.021
+    400046: fry.022
+    400048: fry.023
+    400050: fry.024
+    400052: fry.025
+    400054: interior
+    400056: //RootNode
+    2300000: box
+    2300002: fry
+    2300004: fry.001
+    2300006: fry.002
+    2300008: fry.003
+    2300010: fry.004
+    2300012: fry.005
+    2300014: fry.006
+    2300016: fry.007
+    2300018: fry.008
+    2300020: fry.009
+    2300022: fry.010
+    2300024: fry.011
+    2300026: fry.012
+    2300028: fry.013
+    2300030: fry.014
+    2300032: fry.015
+    2300034: fry.016
+    2300036: fry.017
+    2300038: fry.018
+    2300040: fry.019
+    2300042: fry.020
+    2300044: fry.021
+    2300046: fry.022
+    2300048: fry.023
+    2300050: fry.024
+    2300052: fry.025
+    2300054: interior
+    3300000: box
+    3300002: fry
+    3300004: fry.001
+    3300006: fry.002
+    3300008: fry.003
+    3300010: fry.004
+    3300012: fry.005
+    3300014: fry.006
+    3300016: fry.007
+    3300018: fry.008
+    3300020: fry.009
+    3300022: fry.010
+    3300024: fry.011
+    3300026: fry.012
+    3300028: fry.013
+    3300030: fry.014
+    3300032: fry.015
+    3300034: fry.016
+    3300036: fry.017
+    3300038: fry.018
+    3300040: fry.019
+    3300042: fry.020
+    3300044: fry.021
+    3300046: fry.022
+    3300048: fry.023
+    3300050: fry.024
+    3300052: fry.025
+    3300054: interior
+    4300000: interior
+    4300002: fry.025
+    4300004: fry.024
+    4300006: fry.023
+    4300008: fry.022
+    4300010: fry.021
+    4300012: fry.020
+    4300014: fry.019
+    4300016: fry.018
+    4300018: fry.017
+    4300020: fry.016
+    4300022: fry.015
+    4300024: fry.014
+    4300026: fry.013
+    4300028: fry.012
+    4300030: fry.011
+    4300032: fry.010
+    4300034: fry.009
+    4300036: fry.008
+    4300038: fry.007
+    4300040: fry.006
+    4300042: fry.005
+    4300044: fry.004
+    4300046: fry.003
+    4300048: fry.002
+    4300050: fry.001
+    4300052: fry
+    4300054: box
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
