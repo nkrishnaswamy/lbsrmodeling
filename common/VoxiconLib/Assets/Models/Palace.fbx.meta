@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 98678c6219539534eafdc8e848ab4f85
+timeCreated: 1438823647
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube.001
+    100002: Cube.002
+    100004: Cube.003
+    100006: Cube.004
+    100008: Cube.005
+    100010: Cube.006
+    100012: Cube.007
+    100014: Cube.008
+    100016: Cube.009
+    100018: Cube.010
+    100020: Cube.011
+    100022: Cube.012
+    100024: Cube.014
+    100026: Cylinder
+    100028: Cylinder.001
+    100030: Cylinder.002
+    100032: Cylinder.003
+    100034: Cylinder.004
+    100036: Cylinder.005
+    100038: Cylinder.006
+    100040: Cylinder.008
+    100042: Cylinder.009
+    100044: Fencing.000
+    100046: Fencing.001
+    100048: Fencing.001_MeshPart0
+    100050: Fencing.001_MeshPart1
+    100052: Fencing.002
+    100054: Fencing.003
+    100056: Fencing.004
+    100058: Fencing.005
+    100060: Fencing.006
+    100062: Fencing.007
+    100064: Fencing.008
+    100066: Fencing.009
+    100068: Fencing.010
+    100070: Fencing.011
+    100072: Fencing.012
+    100074: Fencing.014
+    100076: Main roof
+    100078: Main roof.001
+    100080: Main roof.002
+    100082: //RootNode
+    100084: Stairs
+    400000: Cube.001
+    400002: Cube.002
+    400004: Cube.003
+    400006: Cube.004
+    400008: Cube.005
+    400010: Cube.006
+    400012: Cube.007
+    400014: Cube.008
+    400016: Cube.009
+    400018: Cube.010
+    400020: Cube.011
+    400022: Cube.012
+    400024: Cube.014
+    400026: Cylinder
+    400028: Cylinder.001
+    400030: Cylinder.002
+    400032: Cylinder.003
+    400034: Cylinder.004
+    400036: Cylinder.005
+    400038: Cylinder.006
+    400040: Cylinder.008
+    400042: Cylinder.009
+    400044: Fencing.000
+    400046: Fencing.001
+    400048: Fencing.001_MeshPart0
+    400050: Fencing.001_MeshPart1
+    400052: Fencing.002
+    400054: Fencing.003
+    400056: Fencing.004
+    400058: Fencing.005
+    400060: Fencing.006
+    400062: Fencing.007
+    400064: Fencing.008
+    400066: Fencing.009
+    400068: Fencing.010
+    400070: Fencing.011
+    400072: Fencing.012
+    400074: Fencing.014
+    400076: Main roof
+    400078: Main roof.001
+    400080: Main roof.002
+    400082: //RootNode
+    400084: Stairs
+    2300000: Cube.001
+    2300002: Cube.002
+    2300004: Cube.003
+    2300006: Cube.004
+    2300008: Cube.005
+    2300010: Cube.006
+    2300012: Cube.007
+    2300014: Cube.008
+    2300016: Cube.009
+    2300018: Cube.010
+    2300020: Cube.011
+    2300022: Cube.012
+    2300024: Cube.014
+    2300026: Cylinder
+    2300028: Cylinder.001
+    2300030: Cylinder.002
+    2300032: Cylinder.003
+    2300034: Cylinder.004
+    2300036: Cylinder.005
+    2300038: Cylinder.006
+    2300040: Cylinder.008
+    2300042: Cylinder.009
+    2300044: Fencing.000
+    2300046: Fencing.001_MeshPart0
+    2300048: Fencing.001_MeshPart1
+    2300050: Fencing.002
+    2300052: Fencing.003
+    2300054: Fencing.004
+    2300056: Fencing.005
+    2300058: Fencing.006
+    2300060: Fencing.007
+    2300062: Fencing.008
+    2300064: Fencing.009
+    2300066: Fencing.010
+    2300068: Fencing.011
+    2300070: Fencing.012
+    2300072: Fencing.014
+    2300074: Main roof
+    2300076: Main roof.001
+    2300078: Main roof.002
+    2300080: Stairs
+    3300000: Cube.001
+    3300002: Cube.002
+    3300004: Cube.003
+    3300006: Cube.004
+    3300008: Cube.005
+    3300010: Cube.006
+    3300012: Cube.007
+    3300014: Cube.008
+    3300016: Cube.009
+    3300018: Cube.010
+    3300020: Cube.011
+    3300022: Cube.012
+    3300024: Cube.014
+    3300026: Cylinder
+    3300028: Cylinder.001
+    3300030: Cylinder.002
+    3300032: Cylinder.003
+    3300034: Cylinder.004
+    3300036: Cylinder.005
+    3300038: Cylinder.006
+    3300040: Cylinder.008
+    3300042: Cylinder.009
+    3300044: Fencing.000
+    3300046: Fencing.001_MeshPart0
+    3300048: Fencing.001_MeshPart1
+    3300050: Fencing.002
+    3300052: Fencing.003
+    3300054: Fencing.004
+    3300056: Fencing.005
+    3300058: Fencing.006
+    3300060: Fencing.007
+    3300062: Fencing.008
+    3300064: Fencing.009
+    3300066: Fencing.010
+    3300068: Fencing.011
+    3300070: Fencing.012
+    3300072: Fencing.014
+    3300074: Main roof
+    3300076: Main roof.001
+    3300078: Main roof.002
+    3300080: Stairs
+    4300000: Main roof.002
+    4300002: Main roof.001
+    4300004: Cube.012
+    4300006: Cube.009
+    4300008: Fencing.014
+    4300010: Cube.014
+    4300012: Cylinder.009
+    4300014: Fencing.012
+    4300016: Fencing.011
+    4300018: Fencing.010
+    4300020: Fencing.009
+    4300022: Fencing.008
+    4300024: Fencing.007
+    4300026: Cylinder.008
+    4300028: Cube.011
+    4300030: Cylinder.006
+    4300032: Cube.005
+    4300034: Cube.004
+    4300036: Cube.010
+    4300038: Stairs
+    4300040: Cube.001
+    4300042: Fencing.006
+    4300044: Fencing.005
+    4300046: Fencing.000
+    4300048: Cube.008
+    4300050: Cylinder.005
+    4300052: Cylinder.004
+    4300054: Cube.007
+    4300056: Fencing.003
+    4300058: Cube.006
+    4300060: Cylinder.003
+    4300062: Cylinder.002
+    4300064: Main roof
+    4300066: Cube.003
+    4300068: Fencing.002
+    4300070: Cylinder.001
+    4300072: Cylinder
+    4300074: Cube.002
+    4300076: Fencing.004
+    4300078: Fencing.001_MeshPart0
+    4300080: Fencing.001_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
