@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 9956b6a7cf990c049853a972eae80eb2
+timeCreated: 1439093039
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm
+    100002: //RootNode
+    100004: chest_piece
+    100006: chest_piece.001
+    100008: couter
+    100010: Cylinder
+    100012: Cylinder.001
+    100014: Cylinder.002
+    100016: gauntlet
+    100018: gorget
+    100020: helmet
+    100022: leg
+    100024: mouth_piece
+    100026: pant_chain_mail
+    100028: pauldron
+    100030: Plane.002
+    100032: right_arm
+    100034: Torus.001
+    400000: arm
+    400002: //RootNode
+    400004: chest_piece
+    400006: chest_piece.001
+    400008: couter
+    400010: Cylinder
+    400012: Cylinder.001
+    400014: Cylinder.002
+    400016: gauntlet
+    400018: gorget
+    400020: helmet
+    400022: leg
+    400024: mouth_piece
+    400026: pant_chain_mail
+    400028: pauldron
+    400030: Plane.002
+    400032: right_arm
+    400034: Torus.001
+    2300000: arm
+    2300002: chest_piece
+    2300004: chest_piece.001
+    2300006: couter
+    2300008: Cylinder
+    2300010: Cylinder.001
+    2300012: Cylinder.002
+    2300014: gauntlet
+    2300016: gorget
+    2300018: helmet
+    2300020: leg
+    2300022: mouth_piece
+    2300024: pant_chain_mail
+    2300026: pauldron
+    2300028: Plane.002
+    2300030: right_arm
+    2300032: Torus.001
+    3300000: arm
+    3300002: chest_piece
+    3300004: chest_piece.001
+    3300006: couter
+    3300008: Cylinder
+    3300010: Cylinder.001
+    3300012: Cylinder.002
+    3300014: gauntlet
+    3300016: gorget
+    3300018: helmet
+    3300020: leg
+    3300022: mouth_piece
+    3300024: pant_chain_mail
+    3300026: pauldron
+    3300028: Plane.002
+    3300030: right_arm
+    3300032: Torus.001
+    4300000: Torus.001
+    4300002: Cylinder.002
+    4300004: right_arm
+    4300006: leg
+    4300008: Cylinder.001
+    4300010: Cylinder
+    4300012: Plane.002
+    4300014: pant_chain_mail
+    4300016: couter
+    4300018: mouth_piece
+    4300020: arm
+    4300022: gauntlet
+    4300024: pauldron
+    4300026: gorget
+    4300028: helmet
+    4300030: chest_piece.001
+    4300032: chest_piece
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
