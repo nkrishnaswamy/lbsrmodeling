@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Wood_Floor_Parquet
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.349020 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd swing_wooden_chair/Wood_Floor_Parquet.jpg
+
+newmtl Fencing_Chain_Link
+Ka 0.000000 0.000000 0.000000
+Kd 0.901961 0.898039 0.898039
+Ks 0.330000 0.330000 0.330000
+map_Kd swing_wooden_chair/Fencing_Chain_Link.png
+
+newmtl Color_D02
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.800000 0.196078
+Ks 0.330000 0.330000 0.330000
+

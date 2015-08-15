@@ -1,0 +1,15 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.901961 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd candy_lollipop/_2.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
