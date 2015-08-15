@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: ce2831221fed647dda99472e2479d8f9
+timeCreated: 1439638853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: desk
+    100002: desk top
+    100004: drawer
+    100006: drawer.001
+    100008: drawer.002
+    100010: drawer.003
+    100012: handle
+    100014: handle.001
+    100016: handle.002
+    100018: handle.003
+    100020: interior
+    100022: interior.001
+    100024: interior.002
+    100026: interior.003
+    100028: //RootNode
+    100030: leg
+    100032: leg.001
+    100034: leg.002
+    100036: leg.003
+    100038: Point
+    100040: Sun
+    400000: desk
+    400002: desk top
+    400004: drawer
+    400006: drawer.001
+    400008: drawer.002
+    400010: drawer.003
+    400012: handle
+    400014: handle.001
+    400016: handle.002
+    400018: handle.003
+    400020: interior
+    400022: interior.001
+    400024: interior.002
+    400026: interior.003
+    400028: //RootNode
+    400030: leg
+    400032: leg.001
+    400034: leg.002
+    400036: leg.003
+    400038: Point
+    400040: Sun
+    2300000: desk
+    2300002: desk top
+    2300004: drawer
+    2300006: drawer.001
+    2300008: drawer.002
+    2300010: drawer.003
+    2300012: handle
+    2300014: handle.001
+    2300016: handle.002
+    2300018: handle.003
+    2300020: interior
+    2300022: interior.001
+    2300024: interior.002
+    2300026: interior.003
+    2300028: leg
+    2300030: leg.001
+    2300032: leg.002
+    2300034: leg.003
+    3300000: desk
+    3300002: desk top
+    3300004: drawer
+    3300006: drawer.001
+    3300008: drawer.002
+    3300010: drawer.003
+    3300012: handle
+    3300014: handle.001
+    3300016: handle.002
+    3300018: handle.003
+    3300020: interior
+    3300022: interior.001
+    3300024: interior.002
+    3300026: interior.003
+    3300028: leg
+    3300030: leg.001
+    3300032: leg.002
+    3300034: leg.003
+    4300000: interior.003
+    4300002: interior.002
+    4300004: interior.001
+    4300006: interior
+    4300008: handle.001
+    4300010: leg.001
+    4300012: drawer.002
+    4300014: desk
+    4300016: handle
+    4300018: leg
+    4300020: drawer.001
+    4300022: handle.002
+    4300024: drawer.003
+    4300026: handle.003
+    4300028: leg.002
+    4300030: drawer
+    4300032: leg.003
+    4300034: desk top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
