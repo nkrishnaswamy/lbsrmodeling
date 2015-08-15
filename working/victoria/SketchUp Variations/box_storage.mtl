@@ -1,0 +1,15 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl ______________Paper_Box
+Ka 0.000000 0.000000 0.000000
+Kd 0.682353 0.556863 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd box_storage/______________Paper_Box.jpg
+

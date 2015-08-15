@@ -1,0 +1,25 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Silver_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Dark_Brown
+Ka 0.000000 0.000000 0.000000
+Kd 0.305882 0.247059 0.168627
+Ks 0.330000 0.330000 0.330000
+
+newmtl banana1
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.176471 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd banana_bunch/banana1.jpg
+

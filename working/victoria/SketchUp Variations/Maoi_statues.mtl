@@ -1,0 +1,22 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Stone_Brown2
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.603922 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd Maoi_statues/Stone_Brown2.jpg
+
+newmtl Stone_Brown1
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.458824 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Maoi_statues/Stone_Brown1.jpg
+
+newmtl _StoneVein_
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.658824 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd Maoi_statues/_StoneVein_.jpg
+

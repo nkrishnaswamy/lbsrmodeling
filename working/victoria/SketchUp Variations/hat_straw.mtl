@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Carpet_Loop_Pattern
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.541176 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd hat_straw/Carpet_Loop_Pattern.jpg
+
+newmtl Carpet_Berber_Pattern_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.066667 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd hat_straw/Carpet_Berber_Pattern_Gray.jpg
+
