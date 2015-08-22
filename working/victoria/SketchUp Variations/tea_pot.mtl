@@ -1,0 +1,28 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl tpot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.333333 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd tea_pot/tpot1.jpg
+
+newmtl tpot
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd tea_pot/tpot.jpg
+
+newmtl M_234px_WhiteStarLogo_svg
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+map_Kd tea_pot/M_234px_WhiteStarLogo_svg.png
+
+newmtl PoddleyLogo
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+map_Kd tea_pot/PoddleyLogo.png
+
