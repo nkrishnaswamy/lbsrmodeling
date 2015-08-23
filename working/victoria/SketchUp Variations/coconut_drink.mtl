@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl light_sketch_stone
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.109804 0.058824
+Ks 0.330000 0.330000 0.330000
+map_Kd coconut_drink/light_sketch_stone.jpg
+
+newmtl M_0020_Red
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+

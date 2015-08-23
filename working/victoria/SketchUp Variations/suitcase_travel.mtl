@@ -1,0 +1,26 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_travel/Metal_Aluminum_Anodized.jpg
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _0136_Charcoal_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.345098 0.262745
+Ks 0.330000 0.330000 0.330000
+
+newmtl _0001_PaleVioletRed_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.266667 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_travel/_0001_PaleVioletRed_1.jpg
+

@@ -1,0 +1,55 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Carpet_Berber_Pattern_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.149020 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_money/Carpet_Berber_Pattern_Gray.jpg
+
+newmtl _Metal_Aluminum_Anodized_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_money/_Metal_Aluminum_Anodized_1.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_money/Metal_Corrogated_Shiny.jpg
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.615686 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_money/Metal_Rough.jpg
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Steel_Textured_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.749020 0.749020
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_money/Metal_Steel_Textured_White.jpg
+
+newmtl Color_009
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd suitcase_money/Metal_Seamed.jpg
+
