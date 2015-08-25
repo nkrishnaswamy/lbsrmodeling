@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 0ed7581684d5345bd996085b09e127a9
+timeCreated: 1440475963
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: almond
+    100002: almond.001
+    100004: almond.002
+    100006: bowl_Interior
+    100008: cashewNut
+    100010: cashewNut.001
+    100012: cashewNut.002
+    100014: cashewNut.003
+    100016: //RootNode
+    100018: peanut
+    100020: peanut.001
+    100022: peanut.002
+    400000: almond
+    400002: almond.001
+    400004: almond.002
+    400006: bowl_Interior
+    400008: cashewNut
+    400010: cashewNut.001
+    400012: cashewNut.002
+    400014: cashewNut.003
+    400016: //RootNode
+    400018: peanut
+    400020: peanut.001
+    400022: peanut.002
+    2300000: almond
+    2300002: almond.001
+    2300004: almond.002
+    2300006: bowl_Interior
+    2300008: cashewNut
+    2300010: cashewNut.001
+    2300012: cashewNut.002
+    2300014: cashewNut.003
+    2300016: //RootNode
+    2300018: peanut
+    2300020: peanut.001
+    2300022: peanut.002
+    3300000: almond
+    3300002: almond.001
+    3300004: almond.002
+    3300006: bowl_Interior
+    3300008: cashewNut
+    3300010: cashewNut.001
+    3300012: cashewNut.002
+    3300014: cashewNut.003
+    3300016: //RootNode
+    3300018: peanut
+    3300020: peanut.001
+    3300022: peanut.002
+    4300000: bowl
+    4300002: cashewNut.003
+    4300004: almond.002
+    4300006: almond.001
+    4300008: peanut.002
+    4300010: peanut.001
+    4300012: cashewNut.002
+    4300014: cashewNut.001
+    4300016: almond
+    4300018: bowl_Interior
+    4300020: peanut
+    4300022: cashewNut
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
