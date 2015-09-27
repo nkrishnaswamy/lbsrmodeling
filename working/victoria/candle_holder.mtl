@@ -1,0 +1,22 @@
+# Blender MTL File: 'candle_holder.blend'
+# Material Count: 2
+
+newmtl Wood_Bamboo_Medium
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.555294 0.329412 0.134902
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SketchUp Variations\candle_holders\Wood_Bamboo_Medium.jpg
+
+newmtl Wood_Bamboo_Medium_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.555294 0.329412 0.134902
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd SketchUp Variations\\candle_holders\\Wood_Bamboo_Medium.jpg
