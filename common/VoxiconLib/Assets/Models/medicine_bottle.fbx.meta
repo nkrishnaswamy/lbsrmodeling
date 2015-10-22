@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: c3f05d992192aac4282e04c363739226
+timeCreated: 1444767244
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bottle inside
+    100002: Bottle outside
+    100004: cap
+    100006: Cylinder.001
+    100008: Cylinder.002
+    100010: Cylinder.003
+    100012: Cylinder.004
+    100014: Cylinder.005
+    100016: Cylinder.006
+    100018: Cylinder.007
+    100020: Cylinder.014
+    100022: Cylinder.015
+    100024: Cylinder.016
+    100026: Cylinder.017
+    100028: Cylinder.018
+    100030: label
+    100032: //RootNode
+    400000: bottle inside
+    400002: Bottle outside
+    400004: cap
+    400006: Cylinder.001
+    400008: Cylinder.002
+    400010: Cylinder.003
+    400012: Cylinder.004
+    400014: Cylinder.005
+    400016: Cylinder.006
+    400018: Cylinder.007
+    400020: Cylinder.014
+    400022: Cylinder.015
+    400024: Cylinder.016
+    400026: Cylinder.017
+    400028: Cylinder.018
+    400030: label
+    400032: //RootNode
+    2300000: bottle inside
+    2300002: Bottle outside
+    2300004: cap
+    2300006: Cylinder.001
+    2300008: Cylinder.002
+    2300010: Cylinder.003
+    2300012: Cylinder.004
+    2300014: Cylinder.005
+    2300016: Cylinder.006
+    2300018: Cylinder.007
+    2300020: Cylinder.014
+    2300022: Cylinder.015
+    2300024: Cylinder.016
+    2300026: Cylinder.017
+    2300028: Cylinder.018
+    2300030: label
+    3300000: bottle inside
+    3300002: Bottle outside
+    3300004: cap
+    3300006: Cylinder.001
+    3300008: Cylinder.002
+    3300010: Cylinder.003
+    3300012: Cylinder.004
+    3300014: Cylinder.005
+    3300016: Cylinder.006
+    3300018: Cylinder.007
+    3300020: Cylinder.014
+    3300022: Cylinder.015
+    3300024: Cylinder.016
+    3300026: Cylinder.017
+    3300028: Cylinder.018
+    3300030: label
+    4300000: bottle inside
+    4300002: label
+    4300004: Cylinder.018
+    4300006: Cylinder.017
+    4300008: Cylinder.016
+    4300010: Cylinder.015
+    4300012: Cylinder.014
+    4300014: Cylinder.007
+    4300016: Cylinder.006
+    4300018: Cylinder.005
+    4300020: Cylinder.004
+    4300022: Cylinder.003
+    4300024: Cylinder.002
+    4300026: Cylinder.001
+    4300028: cap
+    4300030: Bottle outside
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
