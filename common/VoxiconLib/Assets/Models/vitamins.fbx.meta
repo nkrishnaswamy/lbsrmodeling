@@ -1,22 +1,25 @@
 fileFormatVersion: 2
-guid: c120924e101edfc4cb449de3b28f73cd
-timeCreated: 1439092412
+guid: d72706fc6307d614dad4675e2c31626f
+timeCreated: 1449362590
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Cube
-    100002: Cube.001
+    100000: vitaminBrand
+    100002: vitaminCover
     100004: //RootNode
-    400000: Cube
-    400002: Cube.001
+    400000: vitaminBrand
+    400002: vitaminCover
     400004: //RootNode
-    2300000: Cube
-    2300002: Cube.001
-    3300000: Cube
-    3300002: Cube.001
-    4300000: Cube.001
-    4300002: Cube
+    2300000: vitaminBrand
+    2300002: vitaminCover
+    2300004: //RootNode
+    3300000: vitaminBrand
+    3300002: vitaminCover
+    3300004: //RootNode
+    4300000: vitamin
+    4300002: vitaminBrand
+    4300004: vitaminCover
   materials:
     importMaterials: 1
     materialName: 0
