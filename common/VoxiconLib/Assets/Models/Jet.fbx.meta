@@ -11,30 +11,35 @@ ModelImporter:
     100006: JetInside
     100008: wheels
     100010: windows
+    100012: JetPaint
     400000: engineFans
     400002: engines
     400004: //RootNode
     400006: JetInside
     400008: wheels
     400010: windows
+    400012: JetPaint
     2300000: engineFans
     2300002: engines
     2300004: //RootNode
     2300006: JetInside
     2300008: wheels
     2300010: windows
+    2300012: JetPaint
     3300000: engineFans
     3300002: engines
     3300004: //RootNode
     3300006: JetInside
     3300008: wheels
     3300010: windows
+    3300012: JetPaint
     4300000: Jet
     4300002: wheels
     4300004: windows
     4300006: engineFans
     4300008: engines
     4300010: JetInside
+    4300012: JetPaint
   materials:
     importMaterials: 1
     materialName: 0
