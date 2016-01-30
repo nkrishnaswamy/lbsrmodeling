@@ -9,22 +9,31 @@ ModelImporter:
     100002: //RootNode
     100004: Hat (interior)
     100006: Ribbon
+    100008: Band.001
+    100010: Hat (exterior)
     400000: Band
     400002: //RootNode
     400004: Hat (interior)
     400006: Ribbon
+    400008: Band.001
+    400010: Hat (exterior)
     2300000: Band
     2300002: //RootNode
     2300004: Hat (interior)
     2300006: Ribbon
+    2300008: Band.001
+    2300010: Hat (exterior)
     3300000: Band
     3300002: //RootNode
     3300004: Hat (interior)
     3300006: Ribbon
+    3300008: Band.001
+    3300010: Hat (exterior)
     4300000: Hat (exterior)
     4300002: Ribbon
     4300004: Band
     4300006: Hat (interior)
+    4300008: Band.001
   materials:
     importMaterials: 1
     materialName: 0
@@ -34,6 +43,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
