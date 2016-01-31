@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: 0d7dd04fb8ad2004b941d0c766688576
+timeCreated: 1454203665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cornea
+    100002: Cube
+    100004: eyeball
+    100006: human
+    100008: human.001
+    100010: human.002
+    100012: //RootNode
+    400000: cornea
+    400002: Cube
+    400004: eyeball
+    400006: human
+    400008: human.001
+    400010: human.002
+    400012: //RootNode
+    2300000: cornea
+    2300002: Cube
+    2300004: eyeball
+    2300006: human
+    2300008: human.001
+    2300010: human.002
+    3300000: cornea
+    3300002: Cube
+    3300004: eyeball
+    3300006: human
+    3300008: human.001
+    3300010: human.002
+    4300000: human.002
+    4300002: human.001
+    4300004: Cube
+    4300006: cornea
+    4300008: eyeball
+    4300010: human
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
