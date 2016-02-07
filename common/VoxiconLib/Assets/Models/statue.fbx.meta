@@ -13,10 +13,13 @@ ModelImporter:
     400004: statue_MeshPart1
     2300000: statue_MeshPart0
     2300002: statue_MeshPart1
+    2300004: //RootNode
     3300000: statue_MeshPart0
     3300002: statue_MeshPart1
+    3300004: //RootNode
     4300000: statue_MeshPart0
     4300002: statue_MeshPart1
+    4300004: statue
   materials:
     importMaterials: 1
     materialName: 0
@@ -26,6 +29,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
