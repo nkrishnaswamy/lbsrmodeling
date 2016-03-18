@@ -7,12 +7,24 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: bolt_head
+    100004: bolt
+    100006: Camera
+    100008: Lamp
+    100010: Lamp.001
+    100012: Lamp.002
     400000: //RootNode
     400002: bolt_head
+    400004: bolt
+    400006: Camera
+    400008: Lamp
+    400010: Lamp.001
+    400012: Lamp.002
     2300000: //RootNode
     2300002: bolt_head
+    2300004: bolt
     3300000: //RootNode
     3300002: bolt_head
+    3300004: bolt
     4300000: bolt
     4300002: bolt_head
   materials:
@@ -24,6 +36,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5

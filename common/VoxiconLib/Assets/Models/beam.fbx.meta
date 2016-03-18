@@ -6,10 +6,25 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: beam
+    100004: Camera
+    100006: Lamp
+    100008: Lamp.001
+    100010: Lamp.002
+    100012: Lamp.003
     400000: //RootNode
+    400002: beam
+    400004: Camera
+    400006: Lamp
+    400008: Lamp.001
+    400010: Lamp.002
+    400012: Lamp.003
     2300000: //RootNode
+    2300002: beam
     3300000: //RootNode
+    3300002: beam
     4300000: Cube
+    4300002: beam
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -21,6 +36,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5

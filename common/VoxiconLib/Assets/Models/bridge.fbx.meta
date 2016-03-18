@@ -7,12 +7,20 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Fence
+    100004: Bridge
+    100006: Camera
+    100008: Lamp.001
     400000: //RootNode
     400002: Fence
+    400004: Bridge
+    400006: Camera
+    400008: Lamp.001
     2300000: //RootNode
     2300002: Fence
+    2300004: Bridge
     3300000: //RootNode
     3300002: Fence
+    3300004: Bridge
     4300000: Bridge
     4300002: Fence
     7400000: Default Take
@@ -26,6 +34,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
