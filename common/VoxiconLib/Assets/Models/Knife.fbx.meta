@@ -6,10 +6,20 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: knife_blade
+    100004: knife_handle
     400000: //RootNode
+    400002: knife_blade
+    400004: knife_handle
     2300000: //RootNode
+    2300002: knife_blade
+    2300004: knife_handle
     3300000: //RootNode
+    3300002: knife_blade
+    3300004: knife_handle
     4300000: Knife
+    4300002: knife_blade
+    4300004: knife_handle
   materials:
     importMaterials: 1
     materialName: 0

@@ -6,10 +6,20 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: spoon_handle
+    100004: spoon_head
     400000: //RootNode
+    400002: spoon_handle
+    400004: spoon_head
     2300000: //RootNode
+    2300002: spoon_handle
+    2300004: spoon_head
     3300000: //RootNode
+    3300002: spoon_handle
+    3300004: spoon_head
     4300000: Cube
+    4300002: spoon_handle
+    4300004: spoon_head
   materials:
     importMaterials: 1
     materialName: 0
